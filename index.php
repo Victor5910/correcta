@@ -75,7 +75,7 @@
                <h2 class="text-[40px] font-bold leading-normal">Pricing Plans</h2>
                <p class="text-[18px] font-normal mt-[30px] mb-[80px] text-azul2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum nisi aliquet volutpat pellentesque volutpat est. </p>
                <div class="prices grid grid-cols-3 gap-[80px] text-white">
-                    <div class="bg-blue-950/70 rounded-[30px] pt-[50px] pb-[70px]">
+                    <div class="bg-card/70 rounded-[30px] pt-[50px] pb-[70px]">
                          <h3 class="text-[30px] font-bold">Starter</h3>
                          <span class="mt-[10px] text-[18px] mb-[37px] text-azul2">up to 3 users</span>
                          <div class="precio mx-[60px] mt-[37px] pt-[28px] mb-[40px] text-[60px] border-t border-solid border-azul2">
