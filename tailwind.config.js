@@ -14,7 +14,7 @@ export default {
         'azul1': '#172755',
         'azul2' : '#8794BA',
         'base' : '#F8F9FF',
-        'card' : '#0F1F4B'
+        'card' : '#0F1F4B',
       },
       maxWidth:{
         'screen-2xl':'1600px',
